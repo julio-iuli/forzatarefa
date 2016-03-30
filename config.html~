@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>FORZATAREFA-WEBVERSION</title>		
+	</head>
+	
+	<body>
+		<div>
+			<h1>CONFIGURAÇÕES</h1>
+			<h2>Servidores</h2>
+			<h2>Tarefas</h2>
+			<h2>Rodízios</h2>
+			<h2>Grupos</h2>
+		</div>
+	</body>
+	
+</html>
