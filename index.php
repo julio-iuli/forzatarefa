@@ -1,9 +1,9 @@
-<a href="http://bluefish.openoffice.nl/">Made with Bluefish HTML editor.</a>
 <!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8"/>
-		<title>FORZATAREFA-WEBVERSION</title>		
+		<title>FORZATAREFA-WEBVERSION</title>
+		<link type="text/css" href="css/forza.css" />		
 	</head>
 	
 	<body>
